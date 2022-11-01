@@ -36,7 +36,13 @@
 }
 .nome-livia
 .idade-livia
-.objetivo-livia {   
+.objetivo-livia {  
+    height: 30px;
+    width: 500px;
+}  
+.nome-laurytha
+.idade-laurytha
+.objetivo-laurytha {
     height: 30px;
     width: 500px;
 }
