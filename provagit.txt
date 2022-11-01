@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 Felipe
 andressa
 rafael
-=======
 Gustavo
->>>>>>> Gustavo
+guilherme
+
