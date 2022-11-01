@@ -6,7 +6,13 @@
 }
 .nome-rafael
 .idade-rafael
-.objetivo-rafael {
+.objetivo-rafael  {   
+    height: 30px;
+    width: 500px;
+}
+.nome-gustavo
+.idade-gustavo
+.objetivo-gustavo {
     height: 30px;
     width: 500px;
 }
