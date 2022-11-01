@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Gustavo
-=======
 andreza
 guilherme
 andressa
 rafael
->>>>>>> main
